@@ -1,8 +1,11 @@
-![WeChat Image_20210502000425 (Small)](https://user-images.githubusercontent.com/49461855/116786601-d6eb2e80-aae2-11eb-888c-b43c99a9678e.jpg)
+
 # ESP32S2_MQTT_MORE
 ESP32S2_C_python
 
 # ESP32-S2 
+
+![WeChat Image_20210502010647 (Small)](https://user-images.githubusercontent.com/49461855/116786660-46f9b480-aae3-11eb-8bfa-baaa6b0bb925.jpg)
+
 
 https://learn.adafruit.com/building-circuitpython/esp32-s2-build
 
