@@ -1,0 +1,2 @@
+# ESP32S2_MQTT_MORE
+ESP32S2_C_python
